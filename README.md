@@ -18,6 +18,6 @@ python dictbillng.py
 
 
 
-External Links
-Git = <a href="https://git-scm.com/downloads">Download here</a>
-Python = <a href="https://www.python.org/downloads/">Download here</a>
+<p>External Links</p>
+<p>Git = <a href="https://git-scm.com/downloads">Download here</a></p>
+<p>Python = <a href="https://www.python.org/downloads/">Download here</a></p>
