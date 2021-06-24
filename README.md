@@ -19,5 +19,5 @@ python dictbillng.py
 
 
 <p>External Links</p>
-<p>Git = <a href="https://git-scm.com/downloads">Download here</a></p>
-<p>Python = <a href="https://www.python.org/downloads/">Download here</a></p>
+<p>Git = <a href="https://git-scm.com/downloads" target="_blank">Download here</a></p>
+<p>Python = <a href="https://www.python.org/downloads/" target="_blank">Download here</a></p>
